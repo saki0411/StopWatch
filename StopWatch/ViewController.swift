@@ -35,7 +35,7 @@ class ViewController: UIViewController {
         }else {
             label2.text = "BAD"
         }
-    }
+    } 
 
     
     @IBAction func start(){
