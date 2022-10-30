@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-    }
+    }//aaaaaaaaa
     
     @objc func up(){
         count = count + 0.01
